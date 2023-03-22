@@ -1,3 +1,3 @@
 # Emolod_Project_Zganyayko
 
-Hello world
+The project was added to the repository
